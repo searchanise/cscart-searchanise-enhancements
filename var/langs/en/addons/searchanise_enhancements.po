@@ -1,0 +1,13 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::searchanise_enhancements"
+msgid "Searchanise enhancements"
+msgstr "Searchanise enhancements"
+
+msgctxt "Addons::description::searchanise_enhancements"
+msgid "Provides enhancements from Searchanise team"
+msgstr "Provides enhancements from Searchanise team"

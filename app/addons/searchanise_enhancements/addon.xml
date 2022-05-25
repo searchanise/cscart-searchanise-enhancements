@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>searchanise_enhancements</id>
+    <version>1.0.1</version>
+    <priority>5000</priority>
+    <position>10</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <supplier>Searchanise</supplier>
+    <default_language>en</default_language>
+</addon>
